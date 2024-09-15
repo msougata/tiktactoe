@@ -32,10 +32,8 @@ body{
 }
 .grid-item{
     border: 5px solid #180161;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    font-size: 3vw;
+    text-align: center;
+    font-size: 4em;
 }
 .boxtext{
     height: 100px;
